@@ -21,7 +21,7 @@ This project is a weather forecasting system that uses webhooks for sending noti
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/thevi99/Weather_API.git
+    git clone https://github.com/Thevi99/Weather_API.git
     ```
 2. Navigate to the project directory:
     ```bash
