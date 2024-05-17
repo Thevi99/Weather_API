@@ -37,8 +37,3 @@ This project is a weather forecasting system that uses webhooks for sending noti
     python main.py
     ```
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributions
-Contributions are welcome! Please open an issue or submit a pull request.
