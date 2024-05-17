@@ -10,7 +10,7 @@ This project is a weather forecasting system that uses webhooks for sending noti
 ## Technologies Used
 - Python
 - Webhook integration
-- Weather API (e.g., OpenWeatherMap, Weatherstack)
+- Weather API (e.g., WeatherAPI)
 
 ## Usage
 1. Clone the repository
@@ -21,7 +21,7 @@ This project is a weather forecasting system that uses webhooks for sending noti
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Weather_API.git
+    git clone https://github.com/thevi99/Weather_API.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -31,10 +31,10 @@ This project is a weather forecasting system that uses webhooks for sending noti
     ```bash
     pip install -r requirements.txt
     ```
-4. Configure your webhook URL and weather API key in the `config.py` file.
+4. Configure your webhook URL and weather API key in the `main.py` file.
 5. Run the script:
     ```bash
-    python weather_notifier.py
+    python main.py
     ```
 
 ## License
